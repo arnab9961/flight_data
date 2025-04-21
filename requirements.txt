@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+aiohttp
+pydantic
+python-multipart
+# Replacing the non-existent MCP packages with FastAPI and other utilities we need
+fastapi-utils
+typing-extensions
